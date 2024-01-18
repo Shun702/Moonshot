@@ -9,4 +9,4 @@ By clicking one of the crew, user can read more about the selected crew.
 
 The information used are from https://en.wikipedia.org/wiki/Hypotrochoid.
 
-Most of the code are from https://www.hackingwithswift.com/.
+Related links: https://www.hackingwithswift.com/.
